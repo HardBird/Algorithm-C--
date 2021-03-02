@@ -72,5 +72,11 @@
     <ClCompile Include="backjoon_2503.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="backjoon_2156.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="backjoon_1074.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
