@@ -78,5 +78,17 @@
     <ClCompile Include="backjoon_1074.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="backjoon_2920.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="backjoon_1874.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="init_body.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="backjoon_2750.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
