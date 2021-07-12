@@ -44,6 +44,3 @@ int main() {
 	printf("%d\n", bfs());
 	return 0;
 }
-
-
-√‚√≥: https://rebas.kr/658 [PROJECT REBAS]
