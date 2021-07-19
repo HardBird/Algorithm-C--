@@ -123,5 +123,14 @@
     <ClCompile Include="programmers_ct_6.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="backjoon_1991,5639.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_7.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_8.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
