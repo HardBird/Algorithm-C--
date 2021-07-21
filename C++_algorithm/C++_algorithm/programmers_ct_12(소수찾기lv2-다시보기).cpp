@@ -14,7 +14,9 @@ bool IsPrime(int N)
 }
 
 
+
 //https://henrynoh.tistory.com/44
+//https://johnyejin.tistory.com/34
 /*
 STL과 완전탐색을 문제에 적용하지 못해서 풀지를 못하였다... 
 해당 참고사이트가 너무 잘 설명해줘서 읽고나서 stl사용법을 알게되었다 

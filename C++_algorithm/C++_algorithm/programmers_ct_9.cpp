@@ -14,6 +14,8 @@ int LCM(int a, int b) {
 	return a * b / GCD(a, b);
 }
 int main(vector<int> arr) {
+
+	ios_base::sync_with_stdio(false), cin.tie(0), cout.tie(0);
 	int answer = 0;
 	int lcm = 1;
 	for (int i = 0; i < arr.size(); i++) {
