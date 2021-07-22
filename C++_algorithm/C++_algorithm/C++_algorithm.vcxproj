@@ -139,7 +139,7 @@
     <ClCompile Include="backjoon_1991,5639.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="backjoon_2206.cpp">
+    <ClCompile Include="backjoon_2206%28구조체BFS%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="backjoon_2750.cpp">
@@ -178,7 +178,7 @@
     <ClCompile Include="backjoon_2156.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="backjoon_2178.cpp">
+    <ClCompile Include="backjoon_2178%28PAIR_BFS%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="backjoon_2503.cpp">
@@ -213,6 +213,9 @@
     <ClCompile Include="programmers_ct_13%28소수찾기lv2-2%29.cpp" />
     <ClCompile Include="programmers_ct_14(가장큰수).cpp" />
     <ClCompile Include="programmers_ct_15(예상대진).cpp" />
+    <ClCompile Include="programmers_ct_16(단체사진).cpp" />
+    <ClCompile Include="programmers_ct_17(오픈채팅방).cpp" />
+    <ClCompile Include="programmers_ct_18(프린터).cpp" />
     <ClCompile Include="programmers_ct_6.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -225,7 +228,7 @@
     <ClCompile Include="programmers_ct_2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="programmers_ct_3.cpp">
+    <ClCompile Include="programmers_ct_3%28더맵게%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="programmers_ct_5.cpp">

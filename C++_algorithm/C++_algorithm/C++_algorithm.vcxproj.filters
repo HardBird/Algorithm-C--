@@ -33,9 +33,6 @@
     <ClCompile Include="backjoon_17086.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="backjoon_2178.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="backjoon_7576.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -102,16 +99,10 @@
     <ClCompile Include="backjoon_1743.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="backjoon_2206.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="programmers_ct_1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="programmers_ct_2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="programmers_ct_3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="programmers_ct_4.cpp">
@@ -148,6 +139,24 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="programmers_ct_15(예상대진).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_16(단체사진).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_3%28더맵게%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_17(오픈채팅방).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="backjoon_2206%28구조체BFS%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="backjoon_2178%28PAIR_BFS%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_18(프린터).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
