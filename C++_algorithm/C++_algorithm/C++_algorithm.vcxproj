@@ -208,14 +208,34 @@
     <ClCompile Include="practice.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="programmers_ct_10.cpp" />
-    <ClCompile Include="programmers_ct_11.cpp" />
-    <ClCompile Include="programmers_ct_13%28소수찾기lv2-2%29.cpp" />
-    <ClCompile Include="programmers_ct_14(가장큰수).cpp" />
-    <ClCompile Include="programmers_ct_15(예상대진).cpp" />
-    <ClCompile Include="programmers_ct_16(단체사진).cpp" />
-    <ClCompile Include="programmers_ct_17(오픈채팅방).cpp" />
-    <ClCompile Include="programmers_ct_18(프린터).cpp" />
+    <ClCompile Include="programmers_ct_10.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_11.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_13%28소수찾기lv2-2%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_14(가장큰수).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_15(예상대진).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_16(단체사진).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_17(오픈채팅방).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_18(프린터).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_19%28위장%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_20(컬러링북).cpp" />
     <ClCompile Include="programmers_ct_6.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -237,7 +257,9 @@
     <ClCompile Include="programmers_ct_7.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="programmers_ct_9.cpp" />
+    <ClCompile Include="programmers_ct_9.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="programmers_dp_1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -246,7 +268,9 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="programmers_ct_12%28소수찾기lv2-다시보기%29.cpp" />
+    <None Include="programmers_ct_12%28소수찾기lv2-다시보기%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </None>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -159,6 +159,12 @@
     <ClCompile Include="programmers_ct_18(프린터).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="programmers_ct_19%28위장%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_20(컬러링북).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="programmers_ct_12%28소수찾기lv2-다시보기%29.cpp">
