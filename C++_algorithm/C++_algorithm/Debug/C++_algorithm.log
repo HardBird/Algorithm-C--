@@ -1,2 +1,2 @@
-﻿  programmers_ct_19(위장).cpp
-  C++_algorithm.vcxproj -> E:\Bang\C++_algorithm\Debug\C++_algorithm.exe
+﻿  programmers_ct_22(큰수만들기).cpp
+e:\bang\c++_algorithm\c++_algorithm\programmers_ct_22(큰수만들기).cpp(7): error C3874: 'main'의 반환 형식이 'int'이어야 하는데 'std::string'입니다.

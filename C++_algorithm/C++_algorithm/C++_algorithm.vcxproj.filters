@@ -132,9 +132,6 @@
     <ClCompile Include="programmers_ct_13%28소수찾기lv2-2%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="programmers_ct_9.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="programmers_ct_14(가장큰수).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -163,6 +160,15 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="programmers_ct_20(컬러링북).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_21(h-index).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_9%28최대공약수_최소공배수%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_22(큰수만들기).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

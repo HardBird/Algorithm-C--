@@ -235,7 +235,13 @@
     <ClCompile Include="programmers_ct_19%28위장%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="programmers_ct_20(컬러링북).cpp" />
+    <ClCompile Include="programmers_ct_20(컬러링북).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_21(h-index).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_22(큰수만들기).cpp" />
     <ClCompile Include="programmers_ct_6.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -257,7 +263,7 @@
     <ClCompile Include="programmers_ct_7.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="programmers_ct_9.cpp">
+    <ClCompile Include="programmers_ct_9%28최대공약수_최소공배수%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="programmers_dp_1.cpp">
