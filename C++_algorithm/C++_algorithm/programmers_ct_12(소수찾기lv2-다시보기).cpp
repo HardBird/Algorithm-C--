@@ -22,6 +22,10 @@ STL과 완전탐색을 문제에 적용하지 못해서 풀지를 못하였다...
 해당 참고사이트가 너무 잘 설명해줘서 읽고나서 stl사용법을 알게되었다 
 */
 
+
+//stl vector에서 unique와 erase를 사용하지 않고 그냥 처음부터 아래링크와 같이 find를 사용하여서 분류해주어도된다.
+//https://dkanxmstmdgml.tistory.com/59
+
 using namespace std;
 
 //if가 0이면 거짓 나머지는 참의 값 

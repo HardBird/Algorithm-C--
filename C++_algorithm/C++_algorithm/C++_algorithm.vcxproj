@@ -241,11 +241,18 @@
     <ClCompile Include="programmers_ct_21(h-index).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="programmers_ct_22(큰수만들기).cpp" />
+    <ClCompile Include="programmers_ct_22(큰수만들기).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_23(구명보트).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_24(주식가격).cpp" />
+    <ClCompile Include="programmers_ct_25(기능개발).cpp" />
     <ClCompile Include="programmers_ct_6.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="programmers_ct_4.cpp">
+    <ClCompile Include="programmers_ct_4%28타겟넘버%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="programmers_ct_1.cpp">
