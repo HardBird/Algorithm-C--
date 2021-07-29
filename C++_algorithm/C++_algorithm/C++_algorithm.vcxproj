@@ -208,6 +208,7 @@
     <ClCompile Include="practice.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="programmers_ct28(메뉴리뉴얼).cpp" />
     <ClCompile Include="programmers_ct_10.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -249,6 +250,8 @@
     </ClCompile>
     <ClCompile Include="programmers_ct_24(주식가격).cpp" />
     <ClCompile Include="programmers_ct_25(기능개발).cpp" />
+    <ClCompile Include="programmers_ct_27%28124나라%29.cpp" />
+    <ClCompile Include="programmers_ct_26(가장큰정사각형).cpp" />
     <ClCompile Include="programmers_ct_6.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
