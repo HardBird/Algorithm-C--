@@ -208,7 +208,10 @@
     <ClCompile Include="practice.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="programmers_ct28(메뉴리뉴얼).cpp" />
+    <ClCompile Include="programmers_ct28_%28메뉴리뉴얼%29.cpp" />
+    <ClCompile Include="programmers_ct29_(행렬의곱셈).cpp" />
+    <ClCompile Include="programmers_ct30_%28최댓값과 최솟값%29.cpp" />
+    <ClCompile Include="programmers_ct31_(괄호변환).cpp" />
     <ClCompile Include="programmers_ct_10.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
