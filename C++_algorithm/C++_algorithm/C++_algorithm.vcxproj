@@ -214,6 +214,7 @@
     <ClCompile Include="programmers_ct31_(괄호변환).cpp" />
     <ClCompile Include="programmers_ct32_(땅따먹기).cpp" />
     <ClCompile Include="programmers_ct33_(스킬배우기).cpp" />
+    <ClCompile Include="programmers_ct34_(캐시).cpp" />
     <ClCompile Include="programmers_ct_10.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
