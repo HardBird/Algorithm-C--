@@ -204,6 +204,15 @@
     <ClCompile Include="programmers_ct33_(스킬배우기).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="programmers_ct34_(캐시).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers_ct35_(점프와순간이동).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers_ct36_(쿼드압축후세기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="programmers_ct_12%28소수찾기lv2-다시보기%29.cpp">
