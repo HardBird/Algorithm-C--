@@ -205,6 +205,12 @@
     <ClCompile Include="init_body.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="pr%28모의고사%29.cpp" />
+    <ClCompile Include="pr(로또의최고순위와최저순위).cpp" />
+    <ClCompile Include="pr(부족한금액계산하기).cpp" />
+    <ClCompile Include="pr(쇠막대기).cpp" />
+    <ClCompile Include="pr(음양더하기).cpp" />
+    <ClCompile Include="pr(체육복).cpp" />
     <ClCompile Include="practice.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -217,6 +223,7 @@
     <ClCompile Include="programmers_ct34_(캐시).cpp" />
     <ClCompile Include="programmers_ct35_(점프와순간이동).cpp" />
     <ClCompile Include="programmers_ct36_(쿼드압축후세기).cpp" />
+    <ClCompile Include="programmers_ct37_(다리를지나는트럭).cpp" />
     <ClCompile Include="programmers_ct_10.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
