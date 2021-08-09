@@ -234,6 +234,15 @@
     <ClCompile Include="pr(로또의최고순위와최저순위).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pr(상호평가).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pr(두개뽑아서더하기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pr(가운데글자가져오기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="programmers_ct_12%28소수찾기lv2-다시보기%29.cpp">

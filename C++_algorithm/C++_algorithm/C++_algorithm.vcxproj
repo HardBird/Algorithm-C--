@@ -205,25 +205,60 @@
     <ClCompile Include="init_body.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="pr%28모의고사%29.cpp" />
-    <ClCompile Include="pr(로또의최고순위와최저순위).cpp" />
-    <ClCompile Include="pr(부족한금액계산하기).cpp" />
-    <ClCompile Include="pr(쇠막대기).cpp" />
-    <ClCompile Include="pr(음양더하기).cpp" />
-    <ClCompile Include="pr(체육복).cpp" />
+    <ClCompile Include="pr%28모의고사%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="pr(가운데글자가져오기).cpp" />
+    <ClCompile Include="pr(두개뽑아서더하기).cpp" />
+    <ClCompile Include="pr(로또의최고순위와최저순위).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="pr(부족한금액계산하기).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="pr(상호평가).cpp" />
+    <ClCompile Include="pr(쇠막대기).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="pr(음양더하기).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="pr(체육복).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="practice.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="programmers_ct28_%28메뉴리뉴얼%29.cpp" />
-    <ClCompile Include="programmers_ct29_(행렬의곱셈).cpp" />
-    <ClCompile Include="programmers_ct30_%28최댓값과 최솟값%29.cpp" />
-    <ClCompile Include="programmers_ct31_(괄호변환).cpp" />
-    <ClCompile Include="programmers_ct32_(땅따먹기).cpp" />
-    <ClCompile Include="programmers_ct33_(스킬배우기).cpp" />
-    <ClCompile Include="programmers_ct34_(캐시).cpp" />
-    <ClCompile Include="programmers_ct35_(점프와순간이동).cpp" />
-    <ClCompile Include="programmers_ct36_(쿼드압축후세기).cpp" />
-    <ClCompile Include="programmers_ct37_(다리를지나는트럭).cpp" />
+    <ClCompile Include="programmers_ct28_%28메뉴리뉴얼%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct29_(행렬의곱셈).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct30_%28최댓값과 최솟값%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct31_(괄호변환).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct32_(땅따먹기).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct33_(스킬배우기).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct34_(캐시).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct35_(점프와순간이동).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct36_(쿼드압축후세기).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct37_(다리를지나는트럭).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="programmers_ct_10.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -263,10 +298,18 @@
     <ClCompile Include="programmers_ct_23(구명보트).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="programmers_ct_24(주식가격).cpp" />
-    <ClCompile Include="programmers_ct_25(기능개발).cpp" />
-    <ClCompile Include="programmers_ct_27%28124나라%29.cpp" />
-    <ClCompile Include="programmers_ct_26(가장큰정사각형).cpp" />
+    <ClCompile Include="programmers_ct_24(주식가격).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_25(기능개발).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_27%28124나라%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_26(가장큰정사각형).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="programmers_ct_6.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

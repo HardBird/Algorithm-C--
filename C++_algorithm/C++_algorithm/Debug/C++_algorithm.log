@@ -1,3 +1,4 @@
-﻿  programmers_ct_24(주식가격).cpp
-MSVCRTD.lib(exe_main.obj) : error LNK2019: _main 외부 기호(참조 위치: "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수)에서 확인하지 못했습니다.
-E:\Bang\C++_algorithm\Debug\C++_algorithm.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
+﻿  pr(상호평가).cpp
+e:\bang\c++_algorithm\c++_algorithm\pr(상호평가).cpp(15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\bang\c++_algorithm\c++_algorithm\pr(상호평가).cpp(29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  C++_algorithm.vcxproj -> E:\Bang\C++_algorithm\Debug\C++_algorithm.exe
