@@ -297,6 +297,18 @@
     <ClCompile Include="pr(k번째수).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pr(서울에서김서방찾기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pr(자연수뒤집어배열로만들기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pr(수박수).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pr(완주하지못한선수).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="programmers_ct_12%28소수찾기lv2-다시보기%29.cpp">

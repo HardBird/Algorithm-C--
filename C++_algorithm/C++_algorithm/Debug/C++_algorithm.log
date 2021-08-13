@@ -1,4 +1,3 @@
-﻿  pr(상호평가).cpp
-e:\bang\c++_algorithm\c++_algorithm\pr(상호평가).cpp(15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-e:\bang\c++_algorithm\c++_algorithm\pr(상호평가).cpp(29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+﻿  pr(수박수).cpp
+e:\bang\c++_algorithm\c++_algorithm\pr(수박수).cpp(20): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
   C++_algorithm.vcxproj -> E:\Bang\C++_algorithm\Debug\C++_algorithm.exe
