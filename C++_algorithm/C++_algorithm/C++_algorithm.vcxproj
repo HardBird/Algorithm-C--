@@ -208,12 +208,15 @@
     <ClCompile Include="pr%28모의고사%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="pr(2016년).cpp" />
     <ClCompile Include="pr(k번째수).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="pr(가운데글자가져오기).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="pr(같은숫자는싫어).cpp" />
+    <ClCompile Include="pr(나누어떨어지는숫자배열).cpp" />
     <ClCompile Include="pr(내적).cpp" />
     <ClCompile Include="pr(다트게임).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
@@ -227,10 +230,12 @@
     <ClCompile Include="pr(문자열계산기).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="pr(문자열내p와y의개수).cpp" />
     <ClCompile Include="pr(문자열을 정수로 바꾸기).cpp" />
     <ClCompile Include="pr(부족한금액계산하기).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="pr(비밀지도).cpp" />
     <ClCompile Include="pr(상호평가).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -255,6 +260,7 @@
     <ClCompile Include="pr(음양더하기).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="pr(이상한문자만들기).cpp" />
     <ClCompile Include="pr(자릿수더하기).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
