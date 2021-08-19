@@ -153,9 +153,6 @@
     <ClCompile Include="programmers_ct_18(프린터).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="programmers_ct_19%28위장%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="programmers_ct_20(컬러링북).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -337,6 +334,24 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="pr(문자열내p와y의개수).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pr(약수의개수와덧셈).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pr(3진법뒤집기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pr(예산).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pr(폰켓몬).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pr(실패율).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers_ct_19%28위장-iterator%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
