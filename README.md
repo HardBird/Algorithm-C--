@@ -4,6 +4,7 @@
 #### [STL_string2](https://ldgeao99.tistory.com/220)
 #### [STS_stringstream](https://word.tistory.com/24)
 #### [STL_permutation](https://twpower.github.io/82-next_permutation-and-prev_permutation)
+#### [STL_erase](https://inpages.tistory.com/134)
 #### [DFS_순열](https://yabmoons.tistory.com/100)
 #### [Algorithm](https://blog.encrypted.gg/)
 #### [에라토스테네스의 채](https://danidani-de.tistory.com/50)
