@@ -253,7 +253,9 @@
     <ClCompile Include="pr(수박수).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="pr(숫자문자열과영단어).cpp" />
     <ClCompile Include="pr(시저암호).cpp" />
+    <ClCompile Include="pr(신규아이디추천).cpp" />
     <ClCompile Include="pr(실패율).cpp" />
     <ClCompile Include="pr(약수의개수와덧셈).cpp" />
     <ClCompile Include="pr(약수의합).cpp">
@@ -295,6 +297,8 @@
     <ClCompile Include="pr(콜라즈추측).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="pr(크레인인형뽑기).cpp" />
+    <ClCompile Include="pr(키패드 누르기).cpp" />
     <ClCompile Include="pr(평균구하기).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
