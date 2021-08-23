@@ -366,6 +366,18 @@
     <ClCompile Include="pr(키패드 누르기).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pr(직업군추천하기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pr(문자열내림차순으로배치하기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pr(문자열내마음대로 정리하기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pr(문자열 다루기 기본).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="programmers_ct_12%28소수찾기lv2-다시보기%29.cpp">
