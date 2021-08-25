@@ -378,6 +378,18 @@
     <ClCompile Include="pr(문자열 다루기 기본).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="boj(바이러스).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="boj(전투).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="boj(토마토).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pr(주사위경우의수).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="programmers_ct_12%28소수찾기lv2-다시보기%29.cpp">
