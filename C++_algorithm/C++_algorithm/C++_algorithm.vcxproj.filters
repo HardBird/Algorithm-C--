@@ -390,6 +390,9 @@
     <ClCompile Include="pr(주사위경우의수).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="boj(줄세우기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="programmers_ct_12%28소수찾기lv2-다시보기%29.cpp">
