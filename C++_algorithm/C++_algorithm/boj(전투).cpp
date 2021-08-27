@@ -73,6 +73,7 @@ int main() {
 		for (int j = 0; j < N; j++) {
 			if (map[i][j] == 1 && visited[i][j] == 0) {
 				BFS(i, j);
+				cout <<"W "<< "I:" <<i<< " J:"<<j << endl;
 				wSum += s * s;
 				s = 1;
 			}
@@ -96,6 +97,7 @@ int main() {
 		for (int j = 0; j < N; j++) {
 			if (map[i][j] == 1 && visited[i][j] == 0) {
 				BFS(i, j);
+				cout << "B " << "I:" << i << " J:" << j << endl;
 				bSum += s * s;
 				s = 1;
 			}

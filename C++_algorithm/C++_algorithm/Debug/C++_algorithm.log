@@ -1,4 +1,2 @@
-﻿  boj(줄세우기).cpp
-e:\bang\c++_algorithm\c++_algorithm\boj(줄세우기).cpp(20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-e:\bang\c++_algorithm\c++_algorithm\boj(줄세우기).cpp(33): warning C4101: 'answer' :참조되지 않은 지역 변수입니다.
+﻿  boj(전투).cpp
   C++_algorithm.vcxproj -> E:\Bang\C++_algorithm\Debug\C++_algorithm.exe
