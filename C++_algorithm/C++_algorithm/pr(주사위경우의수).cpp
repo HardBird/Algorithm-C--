@@ -6,10 +6,10 @@ int N = 2;
 int tot = 0;
 void dfs(int depth) {
 	int i;
-	tot++;
 	if (depth > N) {
+		tot++;
 		for (i = 1; i <= N; i++) {
-			cout << answer[i];
+			cout << answer[i] << " " ;
 		}
 		cout << endl;
 		return;
