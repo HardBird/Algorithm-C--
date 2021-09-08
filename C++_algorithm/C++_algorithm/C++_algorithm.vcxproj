@@ -204,12 +204,14 @@
     </ClCompile>
     <ClCompile Include="boj(동전1).cpp" />
     <ClCompile Include="boj(동전2).cpp" />
+    <ClCompile Include="boj(물통).cpp" />
     <ClCompile Include="boj(미로탐색).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="boj(바이러스).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="boj%28어드벤처게임%29.cpp" />
     <ClCompile Include="boj(전투).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
