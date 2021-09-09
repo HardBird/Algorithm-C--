@@ -408,6 +408,15 @@
     <ClCompile Include="boj%28어드벤처게임%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="boj(촌수계산).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="boj(숨바꼭질).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="boj(로봇청소기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="programmers_ct_12%28소수찾기lv2-다시보기%29.cpp">

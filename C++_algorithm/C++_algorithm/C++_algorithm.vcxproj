@@ -204,6 +204,7 @@
     </ClCompile>
     <ClCompile Include="boj(동전1).cpp" />
     <ClCompile Include="boj(동전2).cpp" />
+    <ClCompile Include="boj(로봇청소기).cpp" />
     <ClCompile Include="boj(물통).cpp" />
     <ClCompile Include="boj(미로탐색).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
@@ -212,12 +213,14 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="boj%28어드벤처게임%29.cpp" />
+    <ClCompile Include="boj(숨바꼭질).cpp" />
     <ClCompile Include="boj(전투).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="boj(줄세우기).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="boj(촌수계산).cpp" />
     <ClCompile Include="boj(토마토).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
