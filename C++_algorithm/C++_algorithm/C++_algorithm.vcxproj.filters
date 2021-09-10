@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\복습">
+      <UniqueIdentifier>{6db2ac4e-a3f4-4c46-be7d-8dabdfe4c84a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="backjoon_%28BFS,DFS%29.cpp">
@@ -416,6 +419,18 @@
     </ClCompile>
     <ClCompile Include="boj(로봇청소기).cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PR_오픈채팅방.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
+    <ClCompile Include="PR_타겟넘버.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
+    <ClCompile Include="PR_단체사진찍기.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
+    <ClCompile Include="PR_가장큰수.cpp">
+      <Filter>소스 파일\복습</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
