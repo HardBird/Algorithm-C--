@@ -520,9 +520,14 @@
     <ClCompile Include="pr%28x만큼 간격이 있는 n개의 숫자%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="PR_N으로표현.cpp" />
     <ClCompile Include="PR_가장큰수.cpp" />
+    <ClCompile Include="PR_가장큰정사각형찾기.cpp" />
     <ClCompile Include="PR_단체사진찍기.cpp" />
+    <ClCompile Include="PR_도둑질.cpp" />
+    <ClCompile Include="PR_등굣길.cpp" />
     <ClCompile Include="PR_오픈채팅방.cpp" />
+    <ClCompile Include="PR_정수삼각형.cpp" />
     <ClCompile Include="PR_타겟넘버.cpp" />
   </ItemGroup>
   <ItemGroup>

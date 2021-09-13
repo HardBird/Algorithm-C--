@@ -432,6 +432,21 @@
     <ClCompile Include="PR_가장큰수.cpp">
       <Filter>소스 파일\복습</Filter>
     </ClCompile>
+    <ClCompile Include="PR_가장큰정사각형찾기.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
+    <ClCompile Include="PR_N으로표현.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
+    <ClCompile Include="PR_등굣길.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
+    <ClCompile Include="PR_정수삼각형.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
+    <ClCompile Include="PR_도둑질.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="programmers_ct_12%28소수찾기lv2-다시보기%29.cpp">
