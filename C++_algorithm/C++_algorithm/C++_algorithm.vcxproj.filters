@@ -456,6 +456,21 @@
     <ClCompile Include="BOJ_줄세우기.cpp">
       <Filter>소스 파일\복습</Filter>
     </ClCompile>
+    <ClCompile Include="PR_방의개수.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
+    <ClCompile Include="PR_프린터.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
+    <ClCompile Include="PR_문자열압축.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
+    <ClCompile Include="PR_N개의최소공배수.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
+    <ClCompile Include="PR_짝지어제거하기.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="programmers_ct_12%28소수찾기lv2-다시보기%29.cpp">
