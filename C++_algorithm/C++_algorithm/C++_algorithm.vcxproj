@@ -322,6 +322,8 @@
     <ClCompile Include="pr(숫자문자열과영단어).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="PR_게임맵최단거리.cpp" />
+    <ClCompile Include="PR_스킬배우기.cpp" />
     <ClCompile Include="pr(시저암호).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -560,6 +562,7 @@
     <ClCompile Include="PR_순위.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="PR_예상대진표.cpp" />
     <ClCompile Include="PR_오픈채팅방.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
