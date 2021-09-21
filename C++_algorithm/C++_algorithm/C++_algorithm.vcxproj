@@ -322,6 +322,7 @@
     <ClCompile Include="pr(숫자문자열과영단어).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="PR_땅따먹기.cpp" />
     <ClCompile Include="PR_게임맵최단거리.cpp" />
     <ClCompile Include="PR_스킬배우기.cpp" />
     <ClCompile Include="pr(시저암호).cpp">

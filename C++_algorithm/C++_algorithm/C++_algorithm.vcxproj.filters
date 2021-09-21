@@ -501,6 +501,9 @@
     <ClCompile Include="PR_게임맵최단거리.cpp">
       <Filter>소스 파일\복습</Filter>
     </ClCompile>
+    <ClCompile Include="PR_땅따먹기.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="programmers_ct_12%28소수찾기lv2-다시보기%29.cpp">
