@@ -605,6 +605,7 @@
       <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</DeploymentContent>
     </ClCompile>
     <ClCompile Include="PR_전화번호목록.cpp" />
+    <ClCompile Include="PR_점프와순간이동.cpp" />
     <ClCompile Include="PR_정수삼각형.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</DeploymentContent>
