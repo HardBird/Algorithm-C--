@@ -331,6 +331,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</DeploymentContent>
     </ClCompile>
+    <ClCompile Include="PR_방문길이.cpp" />
     <ClCompile Include="PR_수식최대화.cpp" />
     <ClCompile Include="PR_숫자의표현.cpp" />
     <ClCompile Include="PR_스킬배우기.cpp">
@@ -602,6 +603,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</DeploymentContent>
     </ClCompile>
+    <ClCompile Include="PR_올바른괄호.cpp" />
     <ClCompile Include="PR_위장.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</DeploymentContent>
