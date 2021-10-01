@@ -549,6 +549,21 @@
     <ClCompile Include="PR_모음사전.cpp">
       <Filter>소스 파일\복습</Filter>
     </ClCompile>
+    <ClCompile Include="PR_삼각달팽이.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
+    <ClCompile Include="PR_JadenCase문자열만들기.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
+    <ClCompile Include="PR_행렬의곱셈.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
+    <ClCompile Include="PR_N진수게임.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
+    <ClCompile Include="_연습장.cpp">
+      <Filter>소스 파일\복습</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="programmers_ct_12%28소수찾기lv2-다시보기%29.cpp">
