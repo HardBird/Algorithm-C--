@@ -324,6 +324,7 @@
     </ClCompile>
     <ClCompile Include="PR_JadenCase문자열만들기.cpp" />
     <ClCompile Include="PR_N진수게임.cpp" />
+    <ClCompile Include="PR_거리두기.cpp" />
     <ClCompile Include="PR_다음큰숫자.cpp" />
     <ClCompile Include="PR_땅따먹기.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
