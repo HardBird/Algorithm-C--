@@ -1,42 +1,58 @@
-function solution(line) {
-	const N = line.length;
-	const INF = Number.MAX_SAFE_INTEGER;
-	const crossPoints = [];
-	let minX = INF;
-	let minY = INF;
-	let maxX = -INF;
-	let maxY = -INF;
+#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+#include <climits>
+using namespace std;
 
-	// 계획1 - 문제에 나온 공식대로 모든 정수 교차점과 좌표의 최대/최솟값을 구합니다.
-	for (let i = 0; i < N - 1; i++) {
-		for (let j = i + 1; j < N; j++) {
-			const[a, b, e] = line[i];
-			const[c, d, f] = line[j];
+vector<string> solution(vector<vector<int>> line) {
+	long long minX = LLONG_MAX, minY = LLONG_MAX;
+	long long maxX = LLONG_MIN, maxY = LLONG_MIN;
 
-			const mod = a * d - b * c;
-			if (!mod) continue; // 분모가 0인 경우 -> 서로 평행하거나 일치
+	vector<pair<long long, long long>> coords;
+	int lineSize = line.size();
 
-			const xNumerator = b * f - e * d;
-			const yNumerator = e * c - a * f;
-			if (xNumerator % mod || yNumerator % mod) continue; // 정수가 아닌 교차점
+	for (int i = 0; i < lineSize; i++)
+	{
+		for (int j = i + 1; j < lineSize; j++)
+		{
+			long long A = line[i][0], B = line[i][1], E = line[i][2];
+			long long C = line[j][0], D = line[j][1], F = line[j][2];
 
-			const x = xNumerator / mod;
-			const y = yNumerator / mod;
+			long long xNumerator = B * F * 1LL - E * D * 1LL;
+			long long yNumerator = E * C * 1LL - A * F * 1LL;
+			long long mod = A * D * 1LL - B * C * 1LL;
 
-			crossPoints.push([x, y]); // 교차점 추가
-			minX = Math.min(minX, x); // 좌표 최대/최솟값 갱신
-			minY = Math.min(minY, y);
-			maxX = Math.max(maxX, x);
-			maxY = Math.max(maxY, y);
+			if (mod == 0)
+			{
+				continue;
+			}
+
+			if (xNumerator % mod || yNumerator % mod)
+			{
+				continue;
+			}
+
+			long long x = xNumerator / mod;
+			long long y = yNumerator / mod;
+
+			minX = min(minX, x);
+			minY = min(minY, y);
+
+			maxX = max(maxX, x);
+			maxY = max(maxY, y);
+
+			coords.push_back({ x, y });
 		}
 	}
 
-	// 계획2 - 너비와 높이를 계산 후, 별을 찍습니다.
-	const paper = [...Array(maxY - minY + 1)].map(() = > [...Array(maxX - minX + 1)].map(() = > '.'));
+	string row = string(maxX - minX + 1, '.');
+	vector<string> answer(maxY - minY + 1, row);
 
-	crossPoints.forEach(([x, y]) = > {
-		paper[maxY - y][x - minX] = '*';
-	});
+	for (pair<long long, long long> coord : coords)
+	{
+		answer[abs(coord.second - maxY)][abs(coord.first - minX)] = '*';
+	}
 
-	return paper.map(v = > v.join(''));
+	return answer;
 }
